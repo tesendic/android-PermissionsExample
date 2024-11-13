@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PermissionsExample.iml" filepath="$PROJECT_DIR$/PermissionsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.iml" filepath="$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UsesPermission/PermissionsExample.UsesPermission.iml" filepath="$PROJECT_DIR$/.idea/modules/UsesPermission/PermissionsExample.UsesPermission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UsesPermission/PermissionsExample.UsesPermission.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/UsesPermission/PermissionsExample.UsesPermission.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UsesPermission/PermissionsExample.UsesPermission.main.iml" filepath="$PROJECT_DIR$/.idea/modules/UsesPermission/PermissionsExample.UsesPermission.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UsesPermission/PermissionsExample.UsesPermission.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/UsesPermission/PermissionsExample.UsesPermission.unitTest.iml" />
+    </modules>
+  </component>
+</project>
