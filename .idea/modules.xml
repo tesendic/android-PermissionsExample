@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PermissionsExample.iml" filepath="$PROJECT_DIR$/PermissionsExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.iml" filepath="$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DeadlyApp/PermissionsExample.DeadlyApp.main.iml" />
